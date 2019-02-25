@@ -69,3 +69,4 @@ Then restart the terminal to apply changes.
 2. Double-click it to install.
 3. Yes, is that simple!
 
+![img](https://i.imgur.com/t7DvhSh.png)
