@@ -1,22 +1,21 @@
 <h1 align="center">
   <br>
   <br>
-  IntelliJ Console Color Scheme
+  IntelliJ 终端配色方案
   <h4 align="center">
-  Apply IntelliJ console color scheme on Xshell, MinTTY, Cygwin, WSL, and even CMD!
+  在 Xshell, MinTTY, Cygwin, WSL, CMD 里面使用 IntelliJ 配色方案
   </h4>
   <h5 align="center">
-<a href="README.en_us.md">English</a>&nbsp;&nbsp;
-<a href="README.zh_cn.md">中文</a>
+<a href="README.en_us.md">English</a>
 </h5>
   <br>
   <br>
   <br>
 </h1>
 
-# Installation Guide:
+# 安装说明:
 
-Supported terminals: 
+支持的终端模拟程序: 
 
 * [XShell](#xshell)
 * [Git Bash / MinTTY / Cygwin](#mintty)
@@ -28,15 +27,15 @@ Supported terminals:
 
 ### Xshell:
 
-1. Click **Tools > Color Schemes**:
+1. 点 **工具 > 配色方案**:
 
 ![img](https://i.imgur.com/1hRzY6B.png)
 
-2. Click **Import**:
+2. 然后点 **导入**:
 
 ![img](https://i.imgur.com/FgTsOAt.png)
 
-3. Select it (Do this for each tab):
+3. 然后在每个标签页里面选这个配色方案就好啦w
 
 ![img](https://i.imgur.com/3lCQOqf.png)
 
@@ -46,7 +45,7 @@ Supported terminals:
 
 ### Git Bash / MinTTY / Cygwin:
 
-Run those lines:
+执行这几行 bash 指令:
 
 ```sh
 cd ~
@@ -55,7 +54,7 @@ mv IntelliJConsoleColorScheme/IntelliJ\ Colors\ MinTTY\ Cygwin.minttyrc .minttyr
 rm -rf IntelliJConsoleColorScheme/
 ```
 
-Then restart the terminal to apply changes.
+重启终端就好了w
 
 ![img](https://i.imgur.com/GSR0nN7.png)
 
@@ -63,10 +62,11 @@ Then restart the terminal to apply changes.
 <br>
 <a name="cmd"></a>
 
-### Windows WSL / CMD:
+### Windows WSL / CMD 命令提示符:
 
-1. Download the .reg file.
-2. Double-click it to install.
-3. Yes, is that simple!
+1. [下载.reg文件](https://raw.githubusercontent.com/HyDevelop/IntelliJConsoleColorScheme/master/IntelliJ%20Colors%20CMD%20WSL.reg).
+  (点另存为就能下载嗯)
+2. 双击安装.
+3. 好了w
 
 ![img](https://i.imgur.com/t7DvhSh.png)
