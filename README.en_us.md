@@ -25,6 +25,7 @@ Supported terminals:
 <br>
 <br>
 <a name="xshell"></a>
+
 ### Xshell:
 
 1. Click **Tools > Color Schemes**:
@@ -42,6 +43,7 @@ Supported terminals:
 <br>
 <br>
 <a name="mintty"></a>
+
 ### Git Bash / MinTTY / Cygwin:
 
 Run those lines:
@@ -60,4 +62,5 @@ Then restart the terminal to apply changes.
 <br>
 <br>
 <a name="cmd"></a>
+
 ### Windows WSL / CMD:
