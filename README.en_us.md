@@ -64,3 +64,8 @@ Then restart the terminal to apply changes.
 <a name="cmd"></a>
 
 ### Windows WSL / CMD:
+
+1. Download the .reg file.
+2. Double-click it to install.
+3. Yes, is that simple!
+
