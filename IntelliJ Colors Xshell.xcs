@@ -1,0 +1,26 @@
+[IntelliJ IDEA by Hykilpikonna]
+background=2b2b2b
+text=bbbbbb
+text(bold)=bbbbbb
+
+black=2b2b2b
+blue=5394ec
+cyan=299999
+green=a8c023
+magenta=ae8abe
+red=ff6b68
+yellow=d6bf55
+white=bbbbbb
+
+black(bold)=2b2b2b
+blue(bold)=5394ec
+cyan(bold)=299999
+green(bold)=a8c023
+magenta(bold)=ae8abe
+red(bold)=ff6b68
+yellow(bold)=d6bf55
+white(bold)=bbbbbb
+
+[Names]
+name0=IntelliJ IDEA by Hykilpikonna
+count=1
