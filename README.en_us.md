@@ -18,14 +18,15 @@
 
 Supported terminals: 
 
-* XShell
-* Git Bash / MinTTY / Cygwin
-* Windows WSL / CMD
+* [XShell](#xshell)
+* [Git Bash / MinTTY / Cygwin](#mintty)
+* [Windows WSL / CMD](#cmd)
 
+<a name="xshell"></a>
 ### Xshell:
 
 
-
+<a name="mintty"></a>
 ### Git Bash / MinTTY / Cygwin:
 
 Run those lines:
@@ -40,3 +41,7 @@ rm -rf IntelliJConsoleColorScheme/
 Then restart the terminal to apply changes.
 
 ![img](https://i.imgur.com/GSR0nN7.png)
+
+
+<a name="cmd"></a>
+### Windows WSL / CMD:
