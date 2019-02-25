@@ -22,10 +22,25 @@ Supported terminals:
 * [Git Bash / MinTTY / Cygwin](#mintty)
 * [Windows WSL / CMD](#cmd)
 
+<br>
+<br>
 <a name="xshell"></a>
 ### Xshell:
 
+1. Click **Tools > Color Schemes**:
 
+![img](https://i.imgur.com/1hRzY6B.png)
+
+2. Click **Import**:
+
+![img](https://i.imgur.com/FgTsOAt.png)
+
+3. Select it (Do this for each tab):
+
+![img](https://i.imgur.com/3lCQOqf.png)
+
+<br>
+<br>
 <a name="mintty"></a>
 ### Git Bash / MinTTY / Cygwin:
 
@@ -42,6 +57,7 @@ Then restart the terminal to apply changes.
 
 ![img](https://i.imgur.com/GSR0nN7.png)
 
-
+<br>
+<br>
 <a name="cmd"></a>
 ### Windows WSL / CMD:
