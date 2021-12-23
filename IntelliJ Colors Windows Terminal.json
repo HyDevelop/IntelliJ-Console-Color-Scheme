@@ -1,0 +1,23 @@
+{
+    "background": "#2B2B2B",
+    "black": "#737373",
+    "blue": "#5394EC",
+    "brightBlack": "#808080",
+    "brightBlue": "#5394EC",
+    "brightCyan": "#299999",
+    "brightGreen": "#A8C023",
+    "brightPurple": "#AE8ABE",
+    "brightRed": "#FF6B68",
+    "brightWhite": "#BBBBBB",
+    "brightYellow": "#D6BF55",
+    "cursorColor": "#FFFFFF",
+    "cyan": "#299999",
+    "foreground": "#FFFFFF",
+    "green": "#A8C023",
+    "name": "HyDEV",
+    "purple": "#AE8ABE",
+    "red": "#FF6B68",
+    "selectionBackground": "#FFFFFF",
+    "white": "#BBBBBB",
+    "yellow": "#D6C16C"
+}
